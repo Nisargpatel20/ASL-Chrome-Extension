@@ -9,8 +9,7 @@
   "content_scripts": [
     {
       "matches": ["https://developer.chrome.com/*"],
-      "css": ["style.css"],
-      "js": ["counter.js"]
+      "css": ["style.css"]
     }
   ],
   "web_accessible_resources": [
